@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Muhammad Demir Naufal bin Norazam
 
-<!--
-**demir-naufal/demir-naufal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UiTM interested in software engineering and AI.
 
-Here are some ideas to get you started:
+## About me
+- Studying: Bachelor of Computer Science w. Hons, UiTM
+- Currently learning: Everything
+- My FYP area: Web Development, Internet of Things(IoT), Signal Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+Python,Git, SQL, React.js, Node.js, C, C++, Java, MongoDB, PostgreSQL
+
+## Projects
+- AI-Powered Traffic Summons Assistant for MyBayar PDRM](link-to-your-repository): 
+This project designs an AI-powered conversational assistant to help vehicle owners and motorists in Malaysia to easily check traffic summons details, verify fine discounts, and understand court requirements online.
+
+## Contact
+- LinkedIn: linkedin/demir
+- Email: naufaldemir@gmail.com
